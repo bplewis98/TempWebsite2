@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>HTML Challenge</h1>
+    <hr>
+    <h2><a href="https://devdocs.io/html/element"> Link to Documents</a></h2>
+      <table>
+        <tr>
+          <td><strong>One</strong></td>
+          <td><strong>Three</strong></td>
+        </tr>
+        <tr>
+          <td><strong>Two</strong></td>
+          <td><strong>Four</strong></td>
+        </tr>
+      </table>
+  </body>
+</html>
